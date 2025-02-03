@@ -7,6 +7,8 @@ This exercise is designed to assess your ability to analyze geospatial data, dia
 
 You are welcome to use any AI assistant tools that you feel comfortable with, such as ChatGPT, CoPilot, DeepSeek, Claude, etc.The recommended time to complete the tasks is **less than 5 hours**.
 
+If you have any questions about any part of the exercise, please don’t hesitate to get in touch with nana@regrow.ag.
+
 ## Background & Data Explanation
 
 We are training a time-series machine learning model for **32 crop types in France**. The training data quality varies from state to state. To ensure model reliability, we trained a model using training data from states **highlighted in red** on the map, where we have high confidence in the data quality. We then ran model inference on **three Areas of Interest (AOIs)** (shown in green) to evaluate model performance.
@@ -110,10 +112,13 @@ Your task is to:
 
 ## Bonus Points
 
+A complete submission should include a few basic elements of a data engineering workflow, including:
 - **Worlfow Automation**: Provide a script to automate the data processing pipeline.
 - **Performance Optimization**: End-to-end processing time under 5 minutes.
 - **Unit Tests**: Write tests to validate data processing steps.
-- **Visualization**: Provide visualizations to illustrate model performance.
+
+We are not expecting production level code, but would like to get a sense for how you think about the problem.
+
 
 
 ## Submission Guidelines
