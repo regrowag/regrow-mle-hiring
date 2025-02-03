@@ -1,0 +1,30 @@
+crop,num_fields,agreement_score,weighted_f1_score
+Canola,4547,0.99,1
+Vineyard,2848,0.98,0.99
+Sugarbeets,2343,0.97,0.99
+Winter Wheat,17057,0.97,0.98
+Potatoes,359,0.95,0.98
+Winter Barley,6798,0.94,0.97
+Sunflowers,3287,0.92,0.96
+Silage Corn,2125,0.86,0.93
+Lentils,503,0.87,0.93
+Alfalfa,4435,0.86,0.92
+Peas,285,0.86,0.92
+Soybeans,343,0.8,0.89
+Grain Corn,2884,0.69,0.82
+Fallow,11236,0.68,0.81
+Spring Barley,10124,0.48,0.65
+Clover,1152,0.46,0.63
+Ryegrass,286,0.47,0.63
+Flax,160,0.42,0.59
+Spring Oats,723,0.4,0.57
+Triticale,456,0.31,0.48
+Millet,10,0.3,0.46
+Sorghum,54,0.28,0.43
+Winter Oats,172,0.13,0.24
+Spring Wheat,346,0,0.01
+Trees,646,0,0
+Winter Rye,153,0,0
+Turnips,1,0,0
+Spring Rye,5,0,0
+Beans,7,0,0
